@@ -4,7 +4,7 @@
   "description": "A PHP class to generate QR Code. Fork of t0k4rt/phpqrcode with composer support ",
   "keywords": ["php", "qrcode"],
   "homepage": "http://github.com/fragotesac/phpqrcode",
-  "license": ["LGPL"],
+  "license": ["MIT"],
   "require": {
     "php": ">=5.3"
   },
